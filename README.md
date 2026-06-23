@@ -63,4 +63,4 @@ Search student: Main Menu -> 1 -> 2 -> enter `BSAI-23-001`
 
 ## Author
 
-BS AI - 2nd Semester PF Project
+Sharjeel Hassan
